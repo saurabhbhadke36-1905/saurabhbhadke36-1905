@@ -37,3 +37,18 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=saurabhbhadke36-1905&color=blue)
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabh-bhadke-7b7488394">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Bhadke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:saurabhbhadke36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saurabhbhadke36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
